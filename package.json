@@ -1,0 +1,19 @@
+{
+  "name": "hyperclick-love",
+  "description": "Hyperclick provider for LÖVE.",
+  "author": "Varun Ramesh <varunramesh@live.com>",
+  "license": "MIT",
+  "version": "0.0.0",
+  "main": "./lib/main",
+  "repository": "https://github.com/rameshvarun/hyperclick-love",
+  "engines": {
+    "atom": "^1.0.9"
+  },
+  "providedServices": {
+    "hyperclick.provider": {
+      "versions": {
+        "0.0.0": "getHyperclickProvider"
+      }
+    }
+  }
+}
