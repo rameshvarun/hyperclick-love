@@ -15,5 +15,8 @@
         "0.0.0": "getHyperclickProvider"
       }
     }
+  },
+  "dependencies": {
+    "love-ide-data": "git+https://github.com/rameshvarun/love-ide-data.git#6010599ad2e967a16395c246fdd38da4d23ebf18"
   }
 }
